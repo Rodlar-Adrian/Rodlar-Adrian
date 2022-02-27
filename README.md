@@ -24,7 +24,7 @@ cursos_adrian      char (100),
 capacitaciones_en_curso char (100)
 
 );
-
+```
 ```tabla
 
 
@@ -41,7 +41,7 @@ ADRIAN RODRIGUEZ AGUILAR
                                   C
                                   
 
-
+```
 ```js
 
 var habilidades = {
