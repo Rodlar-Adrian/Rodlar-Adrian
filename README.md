@@ -5,7 +5,7 @@ Yo soy Adrian Rodriguez Aguilar me encanta hacer  mucho ejercicio y comer sano, 
 adoro la musica blues, jazz, rock, mucho los 80,90s.
 
 Soy amante de la tecnologia y las inovaciones.
-Estudie ciencias de la informatica en UPIICSA IPN , egrese hace poco, y mi enfoque actual es hacia el FRON END.
+Estudie ciencias de la informatica en UPIICSA IPN , egrese hace poco, y mi enfoque actual es hacia el FRONT END.
 
 
 ```html
