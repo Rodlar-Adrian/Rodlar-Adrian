@@ -31,7 +31,7 @@ capacitaciones_en_curso char (100)
 
 
 
-         nombre                    lenguajes        bases_datos        certificaciones_a       cursos_adrian       capacitaciones_en_curso 
+  nombre_completo                 lenguajes          bases_datos        certificaciones_a       cursos_adrian       capacitaciones_en_curso 
    
 ADRIAN RODRIGUEZ AGUILAR                     
                                   PYTHON             plsql oracle       azure az-9000           python             full stack developer 
