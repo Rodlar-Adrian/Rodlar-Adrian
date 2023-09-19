@@ -9,7 +9,7 @@ Estudie ciencias de la informatica en UPIICSA IPN , egrese hace poco, y mi enfoq
 
 
 ```html
- <title>   this is my abilities        </title>
+ <title>   this is my skills        </title>
 
 ```
 ```sql
